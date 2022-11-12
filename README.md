@@ -1,5 +1,7 @@
 # ✨ Streamlit based Automatic YouTube subtitle generation 🔊 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
-A streamlit based webapp to generate subtitles for YouTube Videos. This work is just a streamlit implementation of the wonderful work done by [m1guelpf](https://github.com/m1guelpf/yt-whisper#automatic-youtube-subtitle-generation)
+A streamlit based webapp to generate subtitles for YouTube Videos. This work is just a streamlit implementation of the wonderful work done by **[m1guelpf](https://github.com/m1guelpf/yt-whisper#automatic-youtube-subtitle-generation)**.
+
+![demo](https://user-images.githubusercontent.com/29462447/201472171-0c20444c-82a4-444e-85eb-a1898c9ae896.gif)
 
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the necessary dependencies.
@@ -11,6 +13,10 @@ A streamlit based webapp to generate subtitles for YouTube Videos. This work is 
 streamlit run app.py
 ```
 3. Navigate to http://localhost:8501 in your web-browser.
+
+![1](https://user-images.githubusercontent.com/29462447/201472184-e0d865dc-cbfc-4f92-bc16-7231916fa888.png)
+
+
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
